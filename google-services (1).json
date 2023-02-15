@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867850857261",
+    "project_id": "weding-908b9",
+    "storage_bucket": "weding-908b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867850857261:android:e80ae2e1ea6c3bfce941a4",
+        "android_client_info": {
+          "package_name": "com.example.wedingtugasakhiricp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867850857261-p53qe1id4q6d29n67kjmbcd2fe6jq1vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnMYTJFiezCU-4DmRSzWTmbn2YpZwPdH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867850857261-p53qe1id4q6d29n67kjmbcd2fe6jq1vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

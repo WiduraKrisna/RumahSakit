@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TugasAkhir" parent="Theme.AppCompat.DayNight.DarkActionBar" >
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorSecondary">@color/SecondColor</item>
+        <item name="colorAccent">@color/black</item>
+        <item name="colorOnSecondary">@color/whit</item>
+        <item name="colorOnPrimary">@color/background</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+</resources>

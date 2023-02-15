@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rumah Sakit</string>
+    <string name="tht">Poli Tht</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="antrian">Antrian</string>
+    <string name="Anak">Poli Anak</string>
+    <string name="gigi">Poli Gigi</string>
+    <string name="berkas">Antrian Berkas Pendaftaran</string>
+    <string name="umum">Poli Umum</string>
+    <string name="mata">Poli Mata</string>
+    <string name="rks">Rangkasbitung</string>
+    <string name="crmg">Cimarga</string>
+    <string name="cbdk">Cibadak</string>
+    <string name="clw">Cileweng</string>
+</resources>
